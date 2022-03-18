@@ -16,6 +16,10 @@
   - Figure out the best suitable model.
   - Prepare the model to predict final results.
 
+You can download the files (in the form of a zip folder) to your local machine using this link:
+
+https://github.com/mrdbourke/zero-to-mastery-ml/raw/master/data/bluebook-for-bulldozers.zip
+
 
 ## Tools and Techonolgies
   - Python
